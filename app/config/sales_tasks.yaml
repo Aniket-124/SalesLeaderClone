@@ -1,0 +1,20 @@
+tasks:
+  - description: "Advise on how to position our BPO offering to a CFO concerned about cost and compliance."
+    expected_output: "Deliver 3–4 bullet points with tactical messaging, cost justification, and compliance reassurance. Include objection-handling strategies tailored to CFO concerns."
+    agent: sales_leader
+
+  - description: "Provide coaching advice for a junior sales rep struggling to close consulting deals."
+    expected_output: "Deliver a closing strategy tailored to cost-sensitive consulting clients. Include 2–3 tactical steps, value framing, and a persuasive call to action."
+    agent: sales_leader
+
+  - description: "Summarize key talking points for a sales pitch to an enterprise client in accounting."
+    expected_output: "Outline value drivers, competitive differentiation, and a closing strategy. Include messaging that resonates with enterprise finance stakeholders."
+    agent: sales_leader
+
+  - description: "Explain how our solution ensures data security and compliance for enterprise clients."
+    expected_output: "Provide technical validation with business relevance. Include key security protocols, compliance standards, and how they align with CFO or IT leadership priorities."
+    agent: technical_advisor
+
+  - description: "Translate our cloud infrastructure capabilities into business value for a non-technical buyer."
+    expected_output: "Deliver a plain-language explanation of our infrastructure benefits. Include strategic outcomes, risk mitigation, and how it supports business agility for non-technical stakeholders."
+    agent: technical_advisor
